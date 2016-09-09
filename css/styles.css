@@ -1,0 +1,18 @@
+/*NAVIGATION*/
+a {
+  text-decoration:none;
+  color:#1C918D;
+}
+
+a:hover {
+  text-decoration:none;
+  color:#01FCF5;
+}
+
+/*JUMBOTRON*/
+.jumbotron {
+  background-image:url('../images/color.jpg');
+  height:200px;
+  background-size:100%;
+  background-position:center;
+}
