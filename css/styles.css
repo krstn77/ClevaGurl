@@ -12,7 +12,7 @@ a:hover {
 /*JUMBOTRON*/
 .jumbotron {
   background-image:url('../images/color.jpg');
-  height:200px;
+  height:175px;
   background-size:100%;
   background-position:center;
 }
